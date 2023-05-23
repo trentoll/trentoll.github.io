@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About me"
-excerpt: ""
+excerpt: "trent.ollerenshaw@duke.edu"
 author_profile: true
 redirect_from: 
   - /about/
