@@ -1,14 +1,14 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "trent.ollerenshaw@duke.edu"
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hello! I am a doctoral candidate in the Department of Political Science at Duke University. I study public opinion formation in the American context, with interests in political psychology, mass polarization, and racial/ethnic attitudes (especially among white Democrats). **I will be on the academic market 2023-2024.** 
+Hello! I am a doctoral candidate in the Department of Political Science at Duke University. I study public opinion formation, with interests in political psychology, mass polarization, and racial/ethnic attitudes (especially among white Democrats). **I will be on the academic market 2023-2024.** 
 
 My dissertation research examine public opinion formation and intergroup behavior among white Americans who express racially-progressive attitudes. A research note motivating this research, which traces the unprecedented liberalization in white Democrats' racial attitudes since the 2010s, was recently published (open-access) in [*Public Opinion Quarterly*](https://academic.oup.com/poq/article/86/S1/576/6617224). 
 
