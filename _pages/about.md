@@ -8,8 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-This is a one paragraph intro to me.
+Hello! I am a Doctoral Candidate in the Department of Political Science at Duke University. I study public opinion formation in the American context, with interests in political psychology, mass polarization, and racial/ethnic attitudes (especially among white Democrats). **I will be on the academic job market 2023-2024.** 
 
-I will be on the academic job market 2023-2024. 
+My dissertation research uses experimental methods to examine public opinion formation and intergroup behavior among white Americans who express racially-progressive attitudes. A short, descriptive piece motivating this research by tracing the unprecedented liberalization in white Democrats' racial attitudes since the 2010s was recently published (open-access) in [*Public Opinion Quarterly*](https://academic.oup.com/poq/article/86/S1/576/6617224). 
+
+Additionally, I have a number of projects that explore how citizens' trade-off between instrumental and symbolic political motivations, and the implications of these trade-offs for (in)consistencies in mass opinion formation and behavior. Some of my work on this topic can be found in [*Political Behavior*](https://link.springer.com/article/10.1007/s11109-022-09828-9) and [*Public Opinion Quarterly*](https://academic.oup.com/poq/article-abstract/86/2/369/6575714). 
+
 
 
