@@ -14,5 +14,5 @@ My dissertation research examine public opinion formation and intergroup behavio
 
 Additionally, I have a number of projects that explore how citizens' trade-off between instrumental and symbolic political motivations, and the implications of these trade-offs for (in)consistencies in mass opinion formation and political behavior. Some of my published work on this topic can be found in [*Political Behavior*](https://link.springer.com/article/10.1007/s11109-022-09828-9) and [*Public Opinion Quarterly*](https://academic.oup.com/poq/article-abstract/86/2/369/6575714). 
 
-I am also currently a project manager on the interdisciplinary *Politics and Polarization in Mainline Protestant Congregations* research team at Duke University.  **Duke undergraduates with interests in religion, politics, and/or quantitative text analysis seeking (paid!) RA work during the 2023-2024 academic year, please contact me about potential openings.**
+I am also currently a project manager on the interdisciplinary *Politics and Polarization in Mainline Protestant Congregations* research team at Duke University.  **Duke undergraduates with interests in religion, politics, race, and/or text analysis seeking (paid!) RA work during the 2023-2024 academic year, please contact me about potential openings.**
 
