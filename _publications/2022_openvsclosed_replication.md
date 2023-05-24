@@ -12,5 +12,3 @@ citation: 'Ollerenshaw, Trent, and Christopher D. Johnston. 2022. “The Conditi
 [**Article Available Here**](http://dx.doi.org/10.1093/poq/nfac004)
 
 [**Reproduction Materials**](https://dataverse.harvard.edu/dataverse/ollerenshawjohnstonpoq)
-
-Recommended citation: Ollerenshaw, Trent, and Christopher D. Johnston. 2022. “The Conditional Relationship of Psychological Needs to Ideology: A Large-Scale Replication.” Public Opinion Quarterly 86(2): 369–80.
