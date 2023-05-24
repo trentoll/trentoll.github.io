@@ -11,4 +11,3 @@ citation: 'Jardina, Ashley E., and Trent Ollerenshaw. 2022. “The Polls—Trend
 
 [**Available Open-Access**](https://academic.oup.com/poq/article/86/S1/576/6617224)
 
-Recommended citation: Jardina, Ashley E., and Trent Ollerenshaw. 2022. “The Polls—Trends: The Polarization of White Racial Attitudes and Support for Racial Equality in The U.S.” Public Opinion Quarterly 86(S1): 576–87.
