@@ -12,5 +12,4 @@ citation: 'Ollerenshaw, Trent. 2022. “The Conditional Effects of Authoritarian
 [**Article Available Here**](http://dx.doi.org/10.1007/s11109-022-09828-9)
 [**Reproduction Materials**](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ST2ONR)
 
-Recommended citation: Ollerenshaw, Trent. 2022. “The Conditional Effects of Authoritarianism on COVID-19 Pandemic Health Behaviors and Policy Preferences.” Political Behavior.
 
