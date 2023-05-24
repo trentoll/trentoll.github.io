@@ -4,7 +4,7 @@ permalink: /workingpapers/
 author_profile: true
 ---
 
-##Rural Consciousness and its Heterogeneous Associations with Political Identities and Economic Preferences
+## Rural Consciousness and its Heterogeneous Associations with Political Identities and Economic Preferences
 
 *First Posted: May 24th, 2023*
 
