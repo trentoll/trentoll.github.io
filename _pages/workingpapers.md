@@ -19,6 +19,15 @@ author_profile: true
 
 [**Manuscript Download**](https://trentoll.github.io/files/auth_2016primaries_05.24.23.pdf)
 
+## White Racial Polarization Before and After the Election of Donald Trump (Chapter for *Changing American Right* Edited Volume)
+**With Ashley E. Jardina**
+
+*Status: Complete, Pre-Publication*  |  *First Posted: May 24th, 2023*  |  *Current Version: May 24th, 2023*
+
+**Abstract**: This chapter traces white polarization on issues of race and ethnicity before and after the 2016 election of Donald Trump. We find that white Americans were already somewhat polarized in racial attitudes, immigration opinion, and views of Muslim Americans prior to Trump's election; however, in 2016 and beyond, polarization along these dimensions increased. White Democrats, in particular, have moved in a liberal dimension along these dimensions. Furthermore, the associations between racial, immigration, and religious attitudes and voting behavior have strengthened over time, and these associations are particularly strong in the 2016 and 2020 presidential elections. 
+
+[**Manuscript Download**](https://trentoll.github.io/files/racepol_chapter_05.24.23.pdf)
+
 ## Rural Consciousness and its Heterogeneous Associations with Political Identities and Economic Preferences
 
 *Status: Under Review*  |  *First Posted: May 24th, 2023*  |  *Current Version: May 24th, 2023*
