@@ -13,5 +13,3 @@ citation: 'Ollerenshaw, Trent and Ashley E. Jardina. Forthcoming. “The Polls�
 
 [**Reproduction Materials**](https://doi.org/10.7910/DVN/YESULC)
 
-Recommended citation: Ollerenshaw, Trent and Ashley E. Jardina. Forthcoming. “The Polls—Trends: The Asymmetric Polarization of Immigration Opinion in the United States” Public Opinion Quarterly.
-
