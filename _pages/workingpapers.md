@@ -28,7 +28,7 @@ author_profile: true
 [**Manuscript Download**](https://trentoll.github.io/files/ruralconsc_05.24.2023.pdf)
 
 ## Observable Bounds of Rationality and Credibility in International Relations (*REGISTERED REPORT*)
-With Andrew Kenealy and So Jin Lee
+**With Andrew Kenealy and So Jin Lee**
 
 *Status: Under Review*  |  *First Posted: May 24th, 2023*  |  *Current Version: May 24th, 2023*
 
