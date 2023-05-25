@@ -8,7 +8,7 @@ author_profile: true
 
 **"Politics and Polarization in Mainline Protestant Congregations" Practicum**, Duke University, *Fall 2022-Spring 2023*
 
-Duke undergraduates seeking paid RA work, please contact me about potential openings. 
+Duke undergraduates with interests in religion, American politics, race and racism, and/or text-as-data/NLP, please contact me about potential (paid!) RA positions with this project. 
 
 ## Teaching Assistant
 
@@ -22,4 +22,4 @@ Duke undergraduates seeking paid RA work, please contact me about potential open
 
 **Undergraduate Honors Thesis Graduate Advisor**, Duke University, *2020-2021*
 
-**Diversity, Equity, and Inclusion (DEI) Peer Educator**, University of California San Diego, *2017-2018*
+**Diversity, Equity, and Inclusion (DEI) Educator**, University of California San Diego, *2017-2018*
