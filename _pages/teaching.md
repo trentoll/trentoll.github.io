@@ -8,7 +8,7 @@ author_profile: true
 
 **"Politics and Polarization in Mainline Protestant Congregations" Bass Connections Practicum**, Duke University, *2022-2023*
 
-Duke undergraduates with interests in religion, American politics, race and racism, and/or text-as-data/NLP, please contact me about potential (paid!) RA positions with this project. 
+Duke undergraduates with interests in religion, American politics, race and racism, or text-as-data/NLP, please contact me about potential (paid!) RA positions with this project. 
 
 ## Teaching Assistant
 
