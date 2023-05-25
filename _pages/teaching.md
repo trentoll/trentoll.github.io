@@ -8,7 +8,7 @@ author_profile: true
 
 **"Politics and Polarization in Mainline Protestant Congregations" Practicum**, Duke University, *Fall 2022-Spring 2023*
 
-Duke undergraduates seeking paid RA positions for 2023-2024, please contact me (tmo19@duke.edu) about potential openings. 
+Duke undergraduates seeking paid RA work, please contact me about potential openings. 
 
 ## Teaching Assistant
 
