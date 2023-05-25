@@ -6,9 +6,9 @@ author_profile: true
 
 ## Project Manager
 
-**"Politics and Polarization in Mainline Protestant Congregations" Practicum Project Manager**, Duke University, *Fall 2022-Spring 2023*
+**"Politics and Polarization in Mainline Protestant Congregations" Practicum**, Duke University, *Fall 2022-Spring 2023*
 
-Duke undergraduates seeking paid RA positions 2023-2024, contact me (tmo19@duke.edu) about potential openings. 
+Duke undergraduates seeking paid RA positions for 2023-2024, please contact me (tmo19@duke.edu) about potential openings. 
 
 ## Teaching Assistant
 
@@ -20,6 +20,6 @@ Duke undergraduates seeking paid RA positions 2023-2024, contact me (tmo19@duke.
 
 **Political Science Summer Math Camp**, Duke University, *Summer 2023*
 
-**Undergraduate Honors Thesis Graduate Advisor**, Duke University, *Fall 2020-Spring 2021*
+**Undergraduate Honors Thesis Graduate Advisor**, Duke University, *2020-2021*
 
-**Diversity, Equity, and Inclusion (DEI) Peer Education**, University of California San Diego, *Spring 2017-Spring 2018*
+**Diversity, Equity, and Inclusion (DEI) Peer Education**, University of California San Diego, *2017-2018*
