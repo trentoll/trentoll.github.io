@@ -22,5 +22,5 @@ Finally, I enjoy replication-style studies. In 2022, I published a large-N repli
 ## Duke Teaching/RA Hiring
 I am currently project manager for the *Politics and Polarization in Mainline Protestant Congregations* research team. Our team is conducting a large-N collection of United Methodist pastors' sermons for use in longitudinal text-as-data analyses. 
 
-**Duke students with interests in religion, American politics, and/or text analysis/NLP seeking paid (!) RA positions, please contact me about our current openings.** 
+**Duke students with interests in religion, American politics, or text analysis seeking paid RA positions, please contact me about openings.** 
 
