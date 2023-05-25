@@ -19,8 +19,8 @@ Additionally, I have a number of political psychology projects that explore how 
 
 Finally, I enjoy replication-style studies. In 2022, I published a large-N replication study in [*Public Opinion Quarterly*](https://academic.oup.com/poq/article-abstract/86/2/369/6575714) on the contingent relationships between personality traits and ideology. I have two other replication-style studies, respectively R&Red in [*Political Science Research and Methods*](https://trentoll.github.io/workingpapers/psrm_values_05.24.23.pdf) and [*Research & Politics*](https://trentoll.github.io/workingpapers/auth_2016primaries_05.24.23.pdf). Independent replication attempts of my research **strongly encouraged!**
 
-## Duke Teaching/RA Hiring
-I am currently project manager for the *Politics and Polarization in Mainline Protestant Congregations* research team. Our team is conducting a large-N collection of United Methodist pastors' sermons for use in longitudinal text-as-data analyses. 
+## Duke RA Hiring
+I am currently project manager for the *Politics and Polarization in Mainline Protestant Congregations* research team. Our team is conducting a large-N data collection effort for United Methodist pastors' sermons (2020-2021) for text-as-data analyses related to politics, social issues, and polarization. 
 
 **Duke students with interests in religion, American politics, or text analysis seeking paid RA positions, please contact me about openings.** 
 
