@@ -22,4 +22,4 @@ Duke undergraduates seeking paid RA positions for 2023-2024, please contact me (
 
 **Undergraduate Honors Thesis Graduate Advisor**, Duke University, *2020-2021*
 
-**Diversity, Equity, and Inclusion (DEI) Peer Education**, University of California San Diego, *2017-2018*
+**Diversity, Equity, and Inclusion (DEI) Peer Educator**, University of California San Diego, *2017-2018*
