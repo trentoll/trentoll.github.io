@@ -10,7 +10,7 @@ redirect_from:
 
 Hello! I am a doctoral candidate in the Department of Political Science at Duke University. I study US public opinion, with interests in political psychology, mass polarization, and racial/ethnic attitudes (especially among white Democrats). 
 
-**I will be on the 2023-2024 job market seeking academic employment.** 
+**I will be seeking academic employment on the 2023-2024 job market.** 
 
 ## Research Areas
 **Race/Ethnicity:** My dissertation research examines public opinion formation and intergroup behavior among white Americans, especially those who express progressive racial attitudes. A short article motivating this research, which traces the unprecedented liberalization in white Democrats' racial attitudes since the 2010s, was recently published (open-access) in [*Public Opinion Quarterly*](https://academic.oup.com/poq/article/86/S1/576/6617224). See my [working papers](https://trentoll.github.io/workingpapers) for other ongoing research regarding racial/ethnic politics. 
