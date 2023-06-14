@@ -28,13 +28,13 @@ author_profile: true
 
 [**Manuscript Download**](https://trentoll.github.io/files/racepol_chapter_05.24.23.pdf)
 
-## Rural Consciousness and its Heterogeneous Associations with Political Identities and Economic Preferences
+## The Heterogeneous Associations of Rural Consciousness and Political Preferences
 
-*Status: Under Review*  |  *First Posted: May 24th, 2023*  |  *Current Version: May 24th, 2023*
+*Status: Under Review*  |  *First Posted: May 24th, 2023*  |  *Current Version: June 13th, 2023*
 
 **Abstract**: Although rural Americans’ sense of place-based consciousness has been an influential explanation for their right-wing politics, recent studies show rural consciousness is only weakly associated with Republican partisanship and conservatism. I show this incongruity is explained by the heterogeneous associations of rural consciousness to political behavior. Among politically engaged Americans, rural consciousness is associated with right-wing political identification and economic conservatism. Among politically disengaged Americans, however, rural consciousness is associated with left-wing identification and economic liberalism. This heterogeneity emerges due to the downweighing of instrumental, material concerns among politically engaged citizens relative to symbolic, identity-based considerations. Thus, how rural consciousness translates into political behavior is contingent on the motivations citizens bring to bear in political decision-making. In this way, past studies have overlooked how strong rural consciousness’s associations with right-wing political behavior are for politically engaged Americans, as well as its moderate associations with left-wing politics among politically disengaged Americans. 
 
-**Manuscript Revision In-Progress as of 6/6/23, Updated Version To-Be-Posted Soon**
+[**Manuscript Download**](https://doi.org/10.33774/apsa-2023-h0x53)
 
 ## Observable Bounds of Rationality and Credibility in International Relations (*REGISTERED REPORT*)
 **With Andrew Kenealy and So Jin Lee**
