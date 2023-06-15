@@ -5,7 +5,7 @@ author_profile: true
 ---
 ## Affective Polarization and the Destabilization of Core Political Values
 
-*Status: R&R at Political Science Research and Methods*  |  *First Posted: May 24th, 2023*  |  *Current Version: May 24th, 2023*
+*Status: Cond. Accept at Political Science Research and Methods*  |  *First Posted: May 24th, 2023*  |  *Current Version: May 24th, 2023*
 
 **Abstract**: Longitudinal analyses of survey data from 1992-1996 show that extremity in political values was associated with increased affective polarization among Americans during this period, whereas affective polarization was unrelated to increased value extremity (Enders and Lupton 2021). In this paper, I reevaluate the relationships between value extremity and affective polarization using the recent 2016-2020 ANES panel. Replicating Enders and Lupton’s analytical procedures as closely as possible with this new sample, I find that political value extremity is sometimes associated with increased affective polarization during this period, but that affective polarization is consistently and more strongly associated with increased value extremity. These updated findings suggest that values may have become endogenous to Americans’ evaluations of salient political objects, such as parties, presidential candidates, and ideological groups.
 
