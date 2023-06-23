@@ -13,7 +13,7 @@ author_profile: true
 
 ## Authoritarianism and Support for Trump and Clinton in the 2016 Primaries
 
-*Status: R&R at Research & Politics*  |  *First Posted: May 24th, 2023*  |  *Current Version: May 24th, 2023*
+*Status: Cond. Accept at Research & Politics*  |  *First Posted: May 24th, 2023*  |  *Current Version: May 24th, 2023*
 
 **Abstract**: Research in the wake of the contentious 2016 presidential primaries contends both Democrats and Republicans were internally divided along psychological lines. Specifically, MacWilliams (2016) finds authoritarian personality was strongly related to Trump support among Republican primary voters, and Wronski et al. (2018) finds authoritarianism was strongly related to support for Clinton among Democratic primary voters. In this paper, I reassess the relationships between authoritarianism and 2016 primary candidate preferences for both Republicans and Democrats. I analyze two new large, probability-based surveys and generate random effects estimates using these surveys and the two national surveys made available by Wronski et al. (2018). Overall, I find authoritarianism was moderately associated with support for Clinton over Sanders among Democrats, but weakly associated with support for Trump among Republicans. My findings indicate authoritarianism may have played a more limited role in shaping Americans’ candidate preferences in the 2016 presidential primary elections than past studies have suggested.
 
