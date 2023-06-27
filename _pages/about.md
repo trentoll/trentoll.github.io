@@ -13,7 +13,7 @@ Hello! I am a doctoral candidate in the Department of Political Science at Duke 
 **I am seeking academic employment on the 2023-2024 job market.** [CV](https://trentoll.github.io/files/06.26.2023.pdf)/[Job Market Paper](https://preprints.apsanet.org/engage/apsa/article-details/6488b1c9be16ad5c57e1ae90) 
 
 ## Research Areas
-**Race/Ethnicity:** My dissertation examines public opinion formation and intergroup behavior among white Americans, especially those who express ostensibly progressive racial attitudes. A short article that motivates this research agenda by tracing an unprecedented liberalization in white Democrats' racial attitudes was recently published open-access in [*Public Opinion Quarterly*](https://academic.oup.com/poq/article/86/S1/576/6617224). 
+**Race/Ethnicity:** My dissertation examines public opinion formation and intergroup behavior among white Americans, especially those who express ostensibly progressive racial attitudes. A short article that motivates this research agenda by tracing an unprecedented liberalization in white Democrats' racial attitudes has been published open-access in [*Public Opinion Quarterly*](https://academic.oup.com/poq/article/86/S1/576/6617224). 
 
 **Political Psychology:** I have a number of political psychology projects, with particular interests in personality, political identity, and the role of political engagement/sophistication in public opinion formation. Some of my work in this area is published in [*Political Behavior*](https://link.springer.com/article/10.1007/s11109-022-09828-9). 
 
