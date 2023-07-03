@@ -12,4 +12,6 @@ citation: 'Ollerenshaw, Trent. 2022. “The Conditional Effects of Authoritarian
 [**Article Available Here**](http://dx.doi.org/10.1007/s11109-022-09828-9)
 [**Reproduction Materials**](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ST2ONR)
 
+[**Post-Publication Replication Study**](https://doi.org/10.33774/apsa-2023-g96f0)
+
 
