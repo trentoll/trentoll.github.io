@@ -5,19 +5,11 @@ author_profile: true
 ---
 ## Affective Polarization and the Destabilization of Core Political Values
 
-*Status: Cond. Accept at Political Science Research and Methods*  |  *First Posted: May 24th, 2023*  |  *Current Version: May 24th, 2023*
+*Status: Accepted at Political Science Research and Methods*  |  *First Posted: May 24th, 2023*  |  *Current Version: May 24th, 2023*
 
 **Abstract**: Longitudinal analyses of survey data from 1992-1996 show that extremity in political values was associated with increased affective polarization among Americans during this period, whereas affective polarization was unrelated to increased value extremity (Enders and Lupton 2021). In this paper, I reevaluate the relationships between value extremity and affective polarization using the recent 2016-2020 ANES panel. Replicating Enders and Lupton’s analytical procedures as closely as possible with this new sample, I find that political value extremity is sometimes associated with increased affective polarization during this period, but that affective polarization is consistently and more strongly associated with increased value extremity. These updated findings suggest that values may have become endogenous to Americans’ evaluations of salient political objects, such as parties, presidential candidates, and ideological groups.
 
 [**Manuscript Download**](https://trentoll.github.io/files/psrm_values_05.24.23.pdf)
-
-## Authoritarianism and Support for Trump and Clinton in the 2016 Primaries
-
-*Status: Cond. Accept at Research & Politics*  |  *First Posted: May 24th, 2023*  |  *Current Version: May 24th, 2023*
-
-**Abstract**: Research in the wake of the contentious 2016 presidential primaries contends both Democrats and Republicans were internally divided along psychological lines. Specifically, MacWilliams (2016) finds authoritarian personality was strongly related to Trump support among Republican primary voters, and Wronski et al. (2018) finds authoritarianism was strongly related to support for Clinton among Democratic primary voters. In this paper, I reassess the relationships between authoritarianism and 2016 primary candidate preferences for both Republicans and Democrats. I analyze two new large, probability-based surveys and generate random effects estimates using these surveys and the two national surveys made available by Wronski et al. (2018). Overall, I find authoritarianism was moderately associated with support for Clinton over Sanders among Democrats, but weakly associated with support for Trump among Republicans. My findings indicate authoritarianism may have played a more limited role in shaping Americans’ candidate preferences in the 2016 presidential primary elections than past studies have suggested.
-
-[**Manuscript Download**](https://trentoll.github.io/files/auth_2016primaries_05.24.23.pdf)
 
 ## Observable Bounds of Rationality and Credibility in International Relations (*REGISTERED REPORT*)
 **With Andrew Kenealy and So Jin Lee**
@@ -48,8 +40,8 @@ credibility: capable leaders should be better able to overcome difficult decisio
 
 ## A Difference-in-Differences Approach for Estimating Survey Mode Effects
 
-*Status: In-Preparation*  |  *First Posted: June 23rd, 2023*  |  *Current Version: June 23rd, 2023*
+*Status: Under Review*  |  *First Posted: June 23rd, 2023*  |  *Current Version: July 22nd, 2023*
 
-**Abstract**: As surveys increasingly rely on new modes, it is important that researchers understand how mode influences survey responses. Two common designs for identifying mode effects are cross-sectional approaches and experiments. But cross-sectional designs risk a combination of omitted variable bias and post-treatment bias when conditioned on respondent characteristics that are themselves mode sensitive. In theory, experiments can obviate these biases, but only when the experiment occurs in tightly-controlled settings that avoid differential uptake across modes. Considering the costliness and paucity of such experiments, in this paper, I propose a difference-in-differences approach for estimating mode effects. Leveraging mixed-mode panel surveys, mode effects can be identified by comparing changes in responses for panelists who switch modes across waves to those who remain in the same modes. Difference-in-differences offers a cost-free alternative to experiments and potentially large bias reduction gains vis-à-vis widely-utilized cross-sectional designs. I apply the difference-in-differences approach by estimating the effects of completing live interviews vs. web surveys on racial attitudes and political knowledge in the 2016-2020 ANES and on cognitive functioning measures in the 1992-2020 Health and Retirement Study. 
+**Abstract**: A survey’s mode can influence both who takes the survey (selection) and how they respond to its questionnaire (measurement). To distinguish selection and measurement effects, most studies of mode effects use cross-sectional designs. However, cross-sectional designs risk omitted variable bias when the selection process is not fully modeled, but post-treatment bias if the selection process is modeled with variables measured in different survey modes. To address these shortcomings, I propose using difference-in-differences with mixed-mode panel surveys to identify measurement effects. Difference-in-differences compares changes in survey responses over time among panelists who switch modes to panelists who do not switch modes. Difference-in-differences can help reduce omitted variable bias without introducing post-treatment bias. I demonstrate the difference-in-differences approach by estimating the effects of completing live interviews vs. online surveys on the measurement of racial attitudes and political knowledge in the 2016-2020 ANES and cognitive functioning in the 1992-2020 Health and Retirement Study.
 
-[**Manuscript Download**](https://preprints.apsanet.org/engage/apsa/article-details/64961d7d2e632767b0ae18ab)
+[**Manuscript Download**](https://preprints.apsanet.org/engage/apsa/article-details/64bb90fdb053dad33aaf7346)
