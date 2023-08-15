@@ -1,3 +1,9 @@
+---
+title: "Working Papers"
+permalink: /workingpapers/
+author_profile: true
+---
+
 ## Observable Bounds of Rationality and Credibility in International Relations (*REGISTERED REPORT*)
 **With Andrew Kenealy and So Jin Lee**
 
