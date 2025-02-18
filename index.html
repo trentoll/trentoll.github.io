@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Website Under Maintenance</title>
+    <title>Trent Ollerenshaw - CV Available</title>
     <style>
         body {
             font-family: 'Helvetica', sans-serif;
@@ -13,29 +13,52 @@
         }
         h1 {
             color: #2c3e50;
-        }
-        p {
-            margin: 20px 0;
+            font-size: 2.5em;
+            margin-bottom: 20px;
         }
         .cv-link {
-            margin-top: 30px;
+            margin: 40px 0;
+            padding: 20px;
+            border: 2px solid #2980b9;
+            border-radius: 10px;
+            display: inline-block;
+            background-color: #f4f6f7;
         }
-        a {
+        .cv-link a {
             text-decoration: none;
-            color: #2980b9;
-            font-weight: bold;
+            color: #fff;
+            background-color: #2980b9;
+            padding: 15px 30px;
+            border-radius: 5px;
+            font-size: 1.5em;
+            transition: background-color 0.3s ease;
+            display: inline-block;
+            margin-top: 10px;
+        }
+        .cv-link a:hover {
+            background-color: #1c6695;
+        }
+        .bio {
+            margin-top: 30px;
+            font-size: 1.2em;
+        }
+        .maintenance {
+            margin-top: 40px;
+            font-size: 1em;
+            color: #7f8c8d;
         }
     </style>
 </head>
 <body>
-    <h1>Website Under Maintenance</h1>
-    <p>This website is currently undergoing maintenance. But my CV is updated!</p>
+    <h1>My CV is Available!</h1>
     
     <div class="cv-link">
-        <h2>About Me</h2>
-        <p>I'm Trent Ollerenshaw, Assitant Professor of Political Science at the University of Houston.</p>
-        <p>You can view my CV here:</p>
-        <p><a href="./cv.pdf" target="_blank">Download CV (PDF)</a></p>
+        <p>I'm Trent Ollerenshaw, Assistant Professor of Political Science at the University of Houston.</p>
+        <a href="./cv.pdf" target="_blank">View My CV (PDF)</a>
+    </div>
+
+    <div class="maintenance">
+        <p>This website is currently undergoing maintenance. Please check back later for more content.</p>
     </div>
 </body>
 </html>
