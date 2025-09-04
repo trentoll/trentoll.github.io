@@ -1,0 +1,16 @@
+---
+title: "Teaching"
+---
+
+# Teaching
+
+## Courses
+- **POLS 3312: Arguments, Data, and Politics**  
+  Short blurb about the course, syllabus link, assignments, etc.
+
+- **POLS 6480: Quantitative Methods I**  
+  Short blurb about the course, topics, and tools (R, Quarto, Git).
+
+## Resources for Students
+- Getting started with R and RStudio
+- Intro to Quarto for reproducible documents

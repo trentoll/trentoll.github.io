@@ -1,0 +1,11 @@
+---
+title: "CV"
+---
+
+# Curriculum Vitae
+
+The easiest option is to link to a PDF hosted in this repo:
+
+- **Download CV (PDF):** [cv.pdf](cv.pdf)
+
+Or paste your CV content here in Markdown format.

@@ -1,0 +1,27 @@
+/* Minimal, readable styling tweaks */
+:root {
+  --accent: #0f766e;
+}
+
+.navbar {
+  border-bottom: 1px solid #eaeaea;
+}
+
+h1, h2, h3 {
+  scroll-margin-top: 80px;
+}
+
+a {
+  text-decoration: none;
+}
+a:hover, a:focus {
+  text-decoration: underline;
+}
+
+.badge {
+  background: var(--accent);
+}
+
+footer.quarto-footer {
+  border-top: 1px solid #eaeaea;
+}

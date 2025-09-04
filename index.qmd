@@ -1,0 +1,24 @@
+---
+title: "Home"
+---
+
+# Hi—I'm Trent Ollerenshaw
+
+I’m an Assistant Professor of Political Science at the University of Houston. I study public opinion, political psychology, and survey methodology in the American context.
+
+- **Research areas:** public opinion, political psychology, racial/ethnic politics, survey/experimental methods  
+- **Affiliation:** University of Houston  
+- **Email:** <you@uh.edu>  
+- **CV:** See the [CV page](cv.qmd).
+
+> This site is built with [Quarto](https://quarto.org/). Edit any `*.qmd` file to update content; Quarto turns your Markdown into a website.
+
+## News / Updates
+
+- Add a recent paper, talk, or media mention here.
+
+## Quick Links
+
+- [Publications](publications.qmd)
+- [Teaching](teaching.qmd)
+- [Contact](contact.qmd)

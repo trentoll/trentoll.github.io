@@ -1,0 +1,13 @@
+---
+title: "Publications"
+---
+
+# Publications
+
+List selected publications or working papers in simple Markdown. You can group by year or type.
+
+## Peer-Reviewed Articles
+- Author, A., **Ollerenshaw, T.**, & Author, B. (Year). *Title*. **Journal Name**.
+
+## Working Papers
+- **Ollerenshaw, T.** (Year). *Title of working paper*. [PDF](#)

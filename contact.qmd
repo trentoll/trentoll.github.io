@@ -1,0 +1,15 @@
+---
+title: "Contact"
+---
+
+# Contact
+
+- **Email:** <you@uh.edu>  
+- **Department:** Political Science, University of Houston  
+- **Office Hours:** By appointment
+
+You can also add links to Google Scholar, ORCID, and social media:
+
+- [Google Scholar](#)
+- [ORCID](#)
+- [Bluesky/Twitter](#)
